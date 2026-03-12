@@ -25,4 +25,4 @@ A responsive password generator built using HTML, CSS, and JavaScript that creat
 ## Author
 Aditya Kumar
 
-![Password Generator](screenshot.jpeg)
+![Password Generator](Password%20Generator/screenshot.jpeg)
